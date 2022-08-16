@@ -1,0 +1,3 @@
+$hfile "../../inc/define/object_def.h"
+$hfile "../../inc/define/session_def.h"
+$hfile "../../inc/define/shm_def.h"
